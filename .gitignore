@@ -1,0 +1,17 @@
+# Compiled
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
